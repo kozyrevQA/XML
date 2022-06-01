@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bug_report>
+  <number>0</number>
+  <title>Тестовый баг-репорт</title>
+  <summary>Тестовый баг-репорт в формате XML, созданный в рамках ДЗ по основам XML на курсе Вадима Ксендзова</summary>
+  <environment></environment>
+  <str>
+    <step_1>войти в web-интерфейс GitHub</step_1>
+    <step_2>добавить новый файл с именем bug_report.xml в репозиторий XML</step_2>
+    <step_3>заполнить поля внутри созданного файла</step_3>
+    <step_4>сохранить файл</step_4>
+    <step_5>оценить результат</step_5>
+  </str>
+  <actual_result>Баг-репорт на текущий момент в стадии заполнения</actual_result>
+  <expected_result>Баг-репор заполнен</expected_result>
+</bug_report>
