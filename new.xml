@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<about_me> 
+	<surname>Козырев</surname>
+	<firstname>Александр</firstname>
+	<patronymic>Александрович</patronymic>
+	<age>32</age>
+	<pets_count>1</pets_count>
+	<salary>100500</salary>
+</about_me>
